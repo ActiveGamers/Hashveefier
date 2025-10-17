@@ -1,0 +1,16 @@
+C:\Users\mabna\source\repos\Hashveefier\bin\Release\net9.0-windows\win-x64\Hashveefier.exe
+C:\Users\mabna\source\repos\Hashveefier\bin\Release\net9.0-windows\win-x64\Hashveefier.deps.json
+C:\Users\mabna\source\repos\Hashveefier\bin\Release\net9.0-windows\win-x64\Hashveefier.runtimeconfig.json
+C:\Users\mabna\source\repos\Hashveefier\bin\Release\net9.0-windows\win-x64\Hashveefier.dll
+C:\Users\mabna\source\repos\Hashveefier\bin\Release\net9.0-windows\win-x64\Hashveefier.pdb
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.MainForm.resources
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.csproj.GenerateResource.cache
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.AssemblyInfoInputs.cache
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.AssemblyInfo.cs
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.csproj.CoreCompileInputs.cache
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.dll
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\refint\Hashveefier.dll
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.pdb
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\Hashveefier.genruntimeconfig.cache
+C:\Users\mabna\source\repos\Hashveefier\obj\Release\net9.0-windows\win-x64\ref\Hashveefier.dll

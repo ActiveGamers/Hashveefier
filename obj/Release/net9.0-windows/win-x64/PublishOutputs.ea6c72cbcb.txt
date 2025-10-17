@@ -1,0 +1,5 @@
+C:\Users\mabna\source\repos\Hashveefier\publish\Hashveefier.exe
+C:\Users\mabna\source\repos\Hashveefier\publish\Hashveefier.dll
+C:\Users\mabna\source\repos\Hashveefier\publish\Hashveefier.deps.json
+C:\Users\mabna\source\repos\Hashveefier\publish\Hashveefier.runtimeconfig.json
+C:\Users\mabna\source\repos\Hashveefier\publish\Hashveefier.pdb
